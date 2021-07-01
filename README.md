@@ -17,4 +17,5 @@ virtualenv
 pip install streamlit
 
 Now run the hello world app to make sure everything is working:
+
 streamlit hello
